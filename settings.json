@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TH3JAS-rSgL.aternos.me",
-    "port": 18788,
+    "ip": "TH3JAS.aternos.me",
+    "port": 12934,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Hi",
-        "hello"
+        "I am TH3JAS_22's friend",
+        "I am a bot",
+        "Dont care about me"
       ]
     },
     "chat-log": true,
